@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Platform
+  - Wall
+  - Trap
+  - Interact
+  - CanCollect
+  - Water
+  - Wood
+  - BG Trigger
+  - Rock
+  - Save System
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Platform
+  - Trap
+  - CanCollect
+  - Enemy
+  - Interact
+  - Wall
+  - Invisible Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4096614037
+    locked: 0
+  - name: New Layer
+    uniqueID: 1156589661
+    locked: 0
+  - name: Light 2
+    uniqueID: 2901246817
+    locked: 0
+  - name: Light
+    uniqueID: 605169185
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Other
+    uniqueID: 3546073199
+    locked: 0
+  - name: Props
+    uniqueID: 209397053
+    locked: 0
+  - name: Natural Light
+    uniqueID: 1941243681
+    locked: 0
+  - name: Ground
+    uniqueID: 2012837009
+    locked: 0
+  - name: Props 2
+    uniqueID: 1999581627
+    locked: 0
+  - name: Enemy
+    uniqueID: 3973058975
+    locked: 0
+  - name: Player
+    uniqueID: 301403889
+    locked: 0
+  - name: Water
+    uniqueID: 1484059721
+    locked: 0
+  - name: mud
+    uniqueID: 1699694007
+    locked: 0
+  - name: Grass
+    uniqueID: 2651197361
+    locked: 0
+  - name: Walls
+    uniqueID: 4186932595
+    locked: 0
+  - name: Water 2
+    uniqueID: 3243271903
+    locked: 0
+  - name: UI
+    uniqueID: 3793400397
+    locked: 0
